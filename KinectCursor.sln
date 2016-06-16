@@ -7,11 +7,6 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Microsoft.Samples.Kinect.Wp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CursorControl", "CursorControl\CursorControl.csproj", "{09CF9D29-C9D4-4FF3-9C15-488C16783C99}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Images", "Images", "{F6D00385-D0C3-49E2-8DD3-55758772B1E5}"
-	ProjectSection(SolutionItems) = preProject
-		Images\CursorControl.ico = Images\CursorControl.ico
-	EndProjectSection
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
